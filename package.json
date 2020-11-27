@@ -1,0 +1,22 @@
+{
+  "name": "tasks",
+  "version": "0.0.1",
+  "description": "Task documentation repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriguezisleno/tasks.git"
+  },
+  "author": "rodriguezisleno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodriguezisleno/tasks/issues"
+  },
+  "homepage": "https://github.com/rodriguezisleno/tasks#readme",
+  "dependencies": {
+    "markdown-it": "^11.0.1"
+  }
+}
